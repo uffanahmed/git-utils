@@ -7,7 +7,8 @@
     "start": "npx ts-node src/index.ts D:/Projects/app-crop-fe main 2024-01-01",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Uffan Ahmed",
+  "author": "Uffan Ahmed <uffan.ahmed@gmail.com> (http://uffanahmed.com)",
+  "keywords": ["git", "history", "utils", "utility"],
   "license": "ISC",
   "dependencies": {
     "child_process": "^1.0.2",
